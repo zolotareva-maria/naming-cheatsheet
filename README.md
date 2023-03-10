@@ -19,7 +19,7 @@
     - [Prefixes](#prefixes)
 - [Singular and Plurals](#singular-and-plurals)
 
----
+-----------------------
 
 Naming things is hard. This sheet attempts to make it easier.
 
