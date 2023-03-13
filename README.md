@@ -20,13 +20,13 @@
     - [Prefixes](#prefixes)
 - [Singular and Plurals](#singular-and-plurals)
 
----
+-----------------------
 
 Naming things is hard. This sheet attempts to make it easier.
 
 Although these suggestions can be applied to any programming language, I will use JavaScript to illustrate them in practice.
 
-## English language
+## English language yyyyyyyyyyy
 
 Use English language when naming your variables and functions.
 
@@ -42,7 +42,7 @@ const friends = ['Kate', 'John']
 
 > Like it or not, English is the dominant language in programming: the syntax of all programming languages is written in English, as well as countless documentations and educational materials. By writing your code in English you dramatically increase its cohesiveness.
 
-## Naming convention
+## Naming convention fbkpokbofb
 
 Pick **one** naming convention and follow it. It may be `camelCase`, `PascalCase`, `snake_case`, or anything else, as long as it remains consistent. Many programming languages have their own traditions regarding naming conventions; check the documentation for your language or study some popular repositories on Github!
 
